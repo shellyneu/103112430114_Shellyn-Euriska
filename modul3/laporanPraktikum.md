@@ -22,7 +22,7 @@ func main() {
 jadi program itu tuh buat ngeprint hello world
 
 ### 2. ...
-#### soal2.go
+#### 
 
 ```go
 package main
