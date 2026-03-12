@@ -36,5 +36,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn-Euriska/blob/main/modul3/output/soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn-Euriska/blob/main/modul3/soal1.png)
 jadi program itu tuh buat ngeprint hello world
